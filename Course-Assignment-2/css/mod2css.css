@@ -62,7 +62,7 @@ h1{
 @media (min-width:992px){
     
     .container-fluid .first-sec,.second-sec,.third-sec{
-        width: 31%;
+        width: 32.3%;
     }
     .navbar-nav{
         display: none;
